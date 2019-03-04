@@ -11546,11 +11546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saleem\\source\\repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+      "projectUniqueName": "C:\\software\\Code\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
       "projectName": "WebApplication6",
-      "projectPath": "C:\\Users\\Saleem\\source\\repos\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
+      "projectPath": "C:\\software\\Code\\WebApplication6\\WebApplication6\\WebApplication6.csproj",
       "packagesPath": "C:\\Users\\Saleem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saleem\\source\\repos\\WebApplication6\\WebApplication6\\obj\\",
+      "outputPath": "C:\\software\\Code\\WebApplication6\\WebApplication6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
